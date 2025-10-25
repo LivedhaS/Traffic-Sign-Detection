@@ -1,0 +1,2126 @@
+2025-04-23 19:01:09 - Detected: Speed limit
+2025-04-23 19:01:11 - Detected: Cycle Crossing
+2025-04-23 19:01:12 - Detected: Humpy Road
+2025-04-23 19:01:14 - Detected: No stoping
+2025-04-23 19:01:16 - Detected: Speed limit
+2025-04-23 19:01:18 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 13:42:15 - Detected: Speed limit
+2025-04-25 13:42:17 - Detected: Cycle Crossing
+2025-04-25 13:42:19 - Detected: Humpy Road
+2025-04-25 13:42:21 - Detected: No stoping
+2025-04-25 13:42:23 - Detected: Speed limit
+2025-04-25 13:42:24 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 14:14:28 - Detected: Men at work
+2025-04-25 14:16:28 - Detected: Men at work
+2025-04-25 14:19:46 - Detected: Compulsory Keep Right
+2025-04-25 14:19:49 - Detected: Pedestrian crossing
+2025-04-25 14:19:52 - Detected: Compulsory Keep Right
+2025-04-25 14:19:54 - Detected: Pedestrian crossing
+2025-04-25 14:19:57 - Detected: Compulsory Keep Right
+2025-04-25 14:19:59 - Detected: Pedestrian crossing
+2025-04-25 14:25:06 - Detected: Compulsory Keep Right
+2025-04-25 14:27:50 - Detected: Compulsory Keep Right
+2025-04-25 14:28:07 - Detected: Pedestrian crossing
+2025-04-25 14:28:10 - Detected: Compulsory Keep Right
+2025-04-25 14:28:17 - Detected: Pedestrian crossing
+2025-04-25 14:28:20 - Detected: Compulsory Keep Right
+2025-04-25 14:28:27 - Detected: Pedestrian crossing
+2025-04-25 14:28:30 - Detected: Compulsory Keep Right
+2025-04-25 14:28:38 - Detected: Pedestrian crossing
+2025-04-25 14:28:40 - Detected: Compulsory Keep Right
+2025-04-25 14:28:48 - Detected: Pedestrian crossing
+2025-04-25 14:31:50 - Detected: Compulsory Keep Right
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 0
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 0
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 0
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 0
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 0
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 0
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 0
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 0
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 0
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 0
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 0
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 14:47:44 - Detected: Speed limit
+2025-04-25 14:47:46 - Detected: Cycle Crossing
+2025-04-25 14:47:48 - Detected: Humpy Road
+2025-04-25 14:47:49 - Detected: No stoping
+2025-04-25 14:47:51 - Detected: Speed limit
+2025-04-25 14:47:53 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 14:49:13 - Detected: Speed limit
+2025-04-25 14:49:15 - Detected: Cycle Crossing
+2025-04-25 14:49:17 - Detected: Humpy Road
+2025-04-25 14:49:18 - Detected: No stoping
+2025-04-25 14:49:20 - Detected: Speed limit
+2025-04-25 14:49:22 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 14:50:48 - Detected: Speed limit
+2025-04-25 14:50:50 - Detected: Cycle Crossing
+2025-04-25 14:50:52 - Detected: Humpy Road
+2025-04-25 14:50:53 - Detected: No stoping
+2025-04-25 14:50:55 - Detected: Speed limit
+2025-04-25 14:50:57 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 14:52:31 - Detected: Speed limit
+2025-04-25 14:52:33 - Detected: Cycle Crossing
+2025-04-25 14:52:35 - Detected: Humpy Road
+2025-04-25 14:52:37 - Detected: No stoping
+2025-04-25 14:52:38 - Detected: Speed limit
+2025-04-25 14:52:40 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 14:55:30 - Detected: Speed limit
+2025-04-25 14:55:32 - Detected: Cycle Crossing
+2025-04-25 14:55:34 - Detected: Humpy Road
+2025-04-25 14:55:35 - Detected: No stoping
+2025-04-25 14:55:37 - Detected: Speed limit
+2025-04-25 14:55:39 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 15:02:19 - Detected: Speed limit
+2025-04-25 15:02:22 - Detected: Cycle Crossing
+2025-04-25 15:02:23 - Detected: Humpy Road
+2025-04-25 15:02:25 - Detected: No stoping
+2025-04-25 15:02:27 - Detected: Speed limit
+2025-04-25 15:02:29 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 15:17:47 - Detected: Speed limit
+2025-04-25 15:17:47 - Detected: Cycle Crossing
+2025-04-25 15:17:47 - Detected: Humpy Road
+2025-04-25 15:17:47 - Detected: No stoping
+2025-04-25 15:17:47 - Detected: Speed limit
+2025-04-25 15:17:47 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 15:21:42 - Detected: Speed limit
+2025-04-25 15:21:45 - Detected: Cycle Crossing
+2025-04-25 15:21:47 - Detected: Humpy Road
+2025-04-25 15:21:49 - Detected: No stoping
+2025-04-25 15:21:51 - Detected: Speed limit
+2025-04-25 15:21:54 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 15:23:46 - Detected: Speed limit
+2025-04-25 15:23:49 - Detected: Cycle Crossing
+2025-04-25 15:23:51 - Detected: Humpy Road
+2025-04-25 15:23:53 - Detected: No stoping
+2025-04-25 15:23:55 - Detected: Speed limit
+2025-04-25 15:23:57 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 15:33:17 - Detected: Speed limit
+2025-04-25 15:33:20 - Detected: Cycle Crossing
+2025-04-25 15:33:22 - Detected: Humpy Road
+2025-04-25 15:33:24 - Detected: No stoping
+2025-04-25 15:33:26 - Detected: Speed limit
+2025-04-25 15:33:28 - Detected: No stoping
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 1
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 1
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 2
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 3
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 0
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-04-25 15:50:07 - Detected: Men at work
+2025-04-25 15:50:26 - Detected: Give way
+2025-04-25 15:50:34 - Detected: Compulsory Keep Right
+2025-04-26 12:00:22 - Detected: Stop
+2025-04-26 12:00:25 - Detected: Speed limit
+2025-04-26 12:00:30 - Detected: School ahead
+2025-04-26 12:00:32 - Detected: Speed limit
+2025-04-26 12:00:35 - Detected: School ahead
+2025-04-26 12:00:37 - Detected: Speed limit
+2025-04-26 12:00:41 - Detected: Parking
+2025-04-26 12:00:43 - Detected: Men at work
+2025-04-26 12:00:46 - Detected: Speed limit
+2025-04-26 12:00:48 - Detected: Men at work
+2025-04-26 12:00:50 - Detected: Speed limit
+2025-04-26 12:00:56 - Detected: Slippery road
+2025-04-26 12:00:58 - Detected: No entry
+2025-04-26 12:01:00 - Detected: Speed limit
+2025-04-26 12:01:03 - Detected: No entry
+2025-04-26 12:01:06 - Detected: Speed limit
+2025-04-26 12:01:08 - Detected: No entry
+2025-04-26 12:01:19 - Detected: Pedestrian crossing
+2025-04-26 12:01:27 - Detected: No entry
+2025-04-26 12:01:44 - Detected: Parking
+2025-04-26 12:01:46 - Detected: Give way
+2025-04-26 12:01:49 - Detected: Speed limit
+2025-04-26 12:01:51 - Detected: Humpy Road
+2025-04-26 12:01:53 - Detected: Speed limit
+2025-04-26 12:01:55 - Detected: Give way
+2025-04-26 12:02:02 - Detected: No entry
+2025-04-26 12:02:05 - Detected: Compulsory Left Turn
+2025-04-26 12:02:08 - Detected: School ahead
+2025-04-26 12:02:10 - Detected: Speed limit
+2025-04-26 12:02:13 - Detected: Compulsory Left Turn
+2025-04-26 12:02:15 - Detected: School ahead
+2025-04-26 12:02:18 - Detected: Speed limit
+2025-04-26 12:02:20 - Detected: No stoping
+2025-04-26 12:02:22 - Detected: No entry
+2025-04-26 12:02:25 - Detected: Horn prohibited
+2025-04-26 12:02:28 - Detected: Pedestrian prohibited
+2025-04-26 12:02:30 - Detected: Slippery road
+2025-04-26 12:02:32 - Detected: Stop
+2025-04-26 12:02:34 - Detected: Give way
+2025-04-28 11:53:33 - Detected: Speed limit
+2025-04-28 11:53:35 - Detected: Men at work
+2025-04-28 11:53:38 - Detected: Speed limit
+2025-04-28 11:53:42 - Detected: Parking
+2025-04-28 11:53:44 - Detected: Men at work
+2025-04-28 11:54:13 - Detected: Men at work
+2025-04-28 11:54:36 - Detected: Give way
+2025-04-28 11:54:45 - Detected: Compulsory Keep Right
+2025-04-28 11:54:53 - Detected: Pedestrian crossing
+2025-04-28 11:54:56 - Detected: Compulsory Keep Right
+2025-04-28 11:54:59 - Detected: Pedestrian crossing
+2025-04-28 11:55:02 - Detected: Compulsory Keep Right
+2025-04-28 11:55:05 - Detected: Pedestrian crossing
+2025-04-28 11:55:08 - Detected: Compulsory Keep Right
+2025-04-28 11:55:11 - Detected: Pedestrian crossing
+2025-04-28 13:39:50 - Detected: Stop
+2025-04-28 14:12:03 - Detected: Men at work
+2025-04-28 14:13:07 - Detected: Speed limit
+2025-04-28 14:13:10 - Detected: Men at work
+2025-04-28 14:13:12 - Detected: Speed limit
+2025-04-28 14:13:17 - Detected: Stop
+2025-04-28 14:13:20 - Detected: School ahead
+2025-04-28 14:13:22 - Detected: Speed limit
+2025-04-28 14:13:24 - Detected: School ahead
+2025-04-28 14:13:27 - Detected: Speed limit
+2025-04-28 14:13:30 - Detected: Parking
+2025-04-28 14:13:32 - Detected: Speed limit
+2025-10-25 10:27:54 - Detected: Speed limit
+2025-10-25 10:27:56 - Detected: Stop
+
+Detection Summary:
+200m: 0
+50-100m: 0
+Ahead-Left: 0
+Ahead-Right: 0
+Axle-load-limit: 0
+Barrier Ahead: 0
+Bullock Cart Prohibited: 0
+Cart Prohobited: 0
+Cattle: 0
+Compulsory Ahead: 0
+Compulsory Keep Left: 0
+Compulsory Left Turn: 0
+Compulsory Right Turn: 0
+Cross Road: 0
+Cycle Crossing: 0
+Compulsory Cycle Track: 0
+Cycle Prohibited: 0
+Dangerous Dip: 0
+Falling Rocks: 0
+Ferry: 0
+Gap in median: 0
+Give way: 0
+Hand cart prohibited: 0
+Height limit: 0
+Horn prohibited: 0
+Humpy Road: 0
+Left hair pin bend: 0
+Left hand curve: 0
+Left Reverse Bend: 0
+Left turn prohibited: 0
+Length limit: 0
+Load limit 5T: 0
+Loose Gravel: 0
+Major road ahead: 0
+Men at work: 0
+Motor vehicles prohibited: 0
+Nrrow bridge: 0
+Narrow road ahead: 0
+Straight prohibited: 0
+No parking: 0
+No stoping: 0
+One way sign: 0
+Overtaking prohibited: 0
+Pedestrian crossing: 0
+Pedestrian prohibited: 0
+Restriction ends sign: 0
+Right hair pin bend: 0
+Right hand curve: 0
+Right Reverse Bend: 0
+Right turn prohibited: 0
+Road wideness ahead: 0
+Roundabout: 0
+School ahead: 0
+Side road left: 0
+Side road right: 0
+Slippery road: 0
+Compulsory sound horn: 0
+Speed limit: 1
+Staggred intersection: 0
+Steep ascent: 0
+Steep descent: 0
+Stop: 1
+Tonga prohibited: 0
+Truck prohibited: 0
+Compulsory turn left ahead: 0
+Compulsory right turn ahead: 0
+T-intersection: 0
+U-turn prohibited: 0
+Vehicle prohibited in both directions: 0
+Width limit: 0
+Y-intersection: 0
+Sign_C: 0
+Sign_T: 0
+Sign_S: 0
+No entry: 0
+Compulsory Keep Right: 0
+Parking: 0
+
+2025-10-25 10:28:44 - Detected: Men at work
+2025-10-25 10:29:07 - Detected: Give way
+2025-10-25 10:29:17 - Detected: Compulsory Keep Right
+2025-10-25 10:29:25 - Detected: Pedestrian crossing
+2025-10-25 10:29:28 - Detected: Compulsory Keep Right
+2025-10-25 10:29:31 - Detected: Pedestrian crossing
+2025-10-25 10:29:34 - Detected: Compulsory Keep Right
+2025-10-25 10:30:44 - Detected: Stop
+2025-10-25 10:30:57 - Detected: No stoping
+2025-10-25 10:30:59 - Detected: Stop
+2025-10-25 10:31:14 - Detected: Pedestrian crossing
+2025-10-25 10:31:19 - Detected: Stop
+2025-10-25 10:31:22 - Detected: No entry
+2025-10-25 10:31:25 - Detected: Pedestrian crossing
+2025-10-25 10:31:27 - Detected: Stop
+2025-10-25 10:31:29 - Detected: Men at work
+2025-10-25 10:31:32 - Detected: No entry
+2025-10-25 10:31:35 - Detected: Pedestrian crossing
+2025-10-25 10:31:37 - Detected: Stop
+2025-10-25 10:31:39 - Detected: No entry
+2025-10-25 10:31:41 - Detected: Stop
+2025-10-25 10:31:44 - Detected: Pedestrian crossing
+2025-10-25 10:31:46 - Detected: No entry
+2025-10-25 10:32:08 - Detected: Stop
+2025-10-25 10:32:19 - Detected: Speed limit
+2025-10-25 10:32:32 - Detected: No stoping
+2025-10-25 10:32:43 - Detected: Speed limit
+2025-10-25 10:32:46 - Detected: No stoping
+2025-10-25 10:32:48 - Detected: Speed limit
+2025-10-25 10:32:51 - Detected: No stoping
+2025-10-25 10:32:53 - Detected: Speed limit
+2025-10-25 10:32:55 - Detected: Stop
+2025-10-25 10:33:22 - Detected: No entry
+2025-10-25 10:33:24 - Detected: Stop
+2025-10-25 10:33:27 - Detected: No entry
+2025-10-25 10:33:29 - Detected: Stop
+2025-10-25 10:33:31 - Detected: No entry
+2025-10-25 10:33:33 - Detected: Stop
+2025-10-25 10:33:40 - Detected: Give way
+2025-10-25 10:33:42 - Detected: Speed limit
+2025-10-25 10:33:44 - Detected: Stop
+2025-10-25 10:33:47 - Detected: Speed limit
+2025-10-25 10:33:49 - Detected: Stop
