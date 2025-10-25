@@ -1,87 +1,75 @@
-# Traffic-Sign-Detection
+🚦 Real-Time Traffic Sign Detection and Audio Feedback System
 📘 Overview
 
-This project presents a Real-Time Traffic Sign Detection and Audio Feedback System that enhances driver awareness and road safety through intelligent sign recognition and voice-based feedback.
-Built using YOLOv8 (You Only Look Once), the system accurately detects and classifies traffic signs from live video feeds or images and delivers real-time text-to-speech (TTS) alerts to drivers.
+This project presents a Real-Time Traffic Sign Detection and Audio Feedback System designed to enhance driver awareness and road safety through intelligent sign recognition and voice-based feedback.
 
-The system’s goal is to reduce distractions and improve responsiveness to road signs — making it suitable for integration with driver assistance and autonomous vehicle technologies.
+Built using YOLOv8 (You Only Look Once), the system detects and classifies traffic signs from live video feeds or images and provides real-time text-to-speech (TTS) alerts to drivers.
 
-🚦 Key Features
+The goal is to reduce distractions and improve responsiveness to road signs — suitable for driver-assistance and autonomous vehicle technologies.
 
-Real-Time Detection: Fast and accurate traffic sign recognition using YOLOv8.
+🌟 Key Features
 
-Audio Feedback: Real-time spoken alerts via pyttsx3 to notify drivers of detected signs.
+Real-Time Detection: Fast and accurate recognition using YOLOv8.
 
-Multi-Class Recognition: Detects and classifies 61 types of road signs (e.g., Stop, Speed Limit, Pedestrian Crossing).
+Audio Feedback: Real-time spoken alerts via pyttsx3.
 
-Dynamic Environment Handling: Performs well under various lighting, weather, and occlusion conditions.
+Multi-Class Recognition: Detects 61 traffic sign types (e.g., Stop, Speed Limit, Pedestrian Crossing).
 
-GPU Parallel Processing: Supports high-speed inference using GPU acceleration.
+Dynamic Performance: Works under various lighting, weather, and occlusion conditions.
 
-Scalable: Runs on both high-performance and embedded systems.
+GPU Acceleration: Supports high-speed inference on GPU.
+
+Scalability: Compatible with both high-end and embedded systems.
 
 🧠 System Architecture
 
-The architecture combines deep learning for image-based detection with text-to-speech feedback:
+Input Capture: Video or image input from camera or file.
 
-Input Capture: Video or image feed from camera or file.
+Detection Model: YOLOv8 performs sign detection and classification.
 
-Detection Model: YOLOv8 performs object detection and classification.
+Result Processing: Detected signs are annotated with bounding boxes and labels.
 
-Result Processing: Detected signs are highlighted with bounding boxes and labels.
-
-Audio Output: pyttsx3 converts detected sign labels into voice alerts.
+Audio Output: pyttsx3 generates voice alerts for detected signs.
 
 📊 Dataset Description
 
 Total Images: 2,796
 
-Classes: 61 types of traffic signs
+Classes: 61 traffic sign types
 
 Image Size: 640×640 pixels
 
-Annotation Format: YOLO (.txt) — each file includes class label and bounding box coordinates.
+Annotation Format: YOLO (.txt)
 
-Environments: Images captured from highways, urban, and rural roads under varying conditions.
+Environments: Highway, urban, and rural scenarios under varying conditions
 
-Sample Classes
-
-Stop
-
-Speed Limit
-
-Pedestrian Crossing
-
-No Entry
-
-Roundabout
-
-School Zone
-
-Cyclist Crossing
+Sample Classes:
+Stop | Speed Limit | Pedestrian Crossing | No Entry | Roundabout | School Zone | Cyclist Crossing
 
 ⚙️ Methodology
 1. Data Preprocessing
 
-Images resized to 640×640.
+Resized all images to 640×640.
 
 Normalized pixel values between 0–1.
 
-Data augmentation (flipping, rotation, brightness adjustment) to improve generalization.
+Applied augmentation (flipping, rotation, brightness adjustments).
 
 2. Model Architecture
 
-Based on YOLOv8 — a single-stage, real-time object detector.
+Based on YOLOv8, a single-stage real-time object detector.
 
-Enhanced backbone network for faster, more accurate detections.
+Enhanced backbone for improved accuracy and speed.
 
 3. Training
 
-Model trained for 100 epochs using the Adam optimizer.
+Epochs: 100
 
-80/20 train-validation split.
+Optimizer: Adam
 
-Data augmentation applied for improved robustness.
+Split: 80% training, 20% validation
+
+Data augmentation for robustness.
 
 4. Evaluation Metrics
 
@@ -93,26 +81,21 @@ mAP@0.5: 91.75%
 
 mAP@0.5:0.95: 74.08%
 
-🧩 Implementation
-Requirements
+🧩 Implementation Requirements
+Dependencies
 
-Install dependencies using:
+Install all dependencies using:
 
 pip install ultralytics pyttsx3 opencv-python
 
-Running Detection
-
-To run the model on a video:
-
+🚀 Running Detection
+Run on a Video
 python detect.py --weights "path/to/best.pt" --source "path/to/video.mp4" --view-img
 
-
-Or on a webcam:
-
+Run on a Webcam
 python detect.py --weights "path/to/best.pt" --source 0 --view-img
 
-
-The system will:
+The System Will
 
 Detect and classify traffic signs.
 
@@ -122,8 +105,7 @@ Announce detected signs via TTS.
 
 🔊 Audio Feedback Integration
 
-The audio module uses pyttsx3 for offline text-to-speech conversion.
-When a sign is detected (e.g., Speed Limit), the system immediately announces it to the driver.
+Uses pyttsx3 for offline TTS conversion. When a sign is detected (e.g., Speed Limit), the system immediately announces it.
 
 Example:
 
@@ -133,26 +115,23 @@ engine.say("Speed limit ahead")
 engine.runAndWait()
 
 🧾 Results Summary
-
-mAP@0.5: 91.75%
-
-mAP@0.5:0.95: 74.08%
-
-High precision and recall for small and overlapping signs.
-
-Inference Speed: Real-time detection suitable for driver assistance systems.
-
+Metric	Value
+mAP@0.5	91.75%
+mAP@0.5:0.95	74.08%
+Inference Speed	Real-time (suitable for driver assistance)
+Performance	High precision and recall even for small or overlapping signs
 🧭 Future Scope
 
-Integrate GPS-based sign mapping for context-aware alerts.
+GPS-based sign mapping for context-aware alerts.
 
-Extend to traffic light and lane detection.
+Integration with traffic light and lane detection systems.
 
-Deploy on embedded platforms (e.g., Raspberry Pi with camera).
+Deployment on embedded devices (e.g., Raspberry Pi).
 
-Support multilingual audio feedback.
+Support for multilingual voice alerts.
 
 🛡️ Conclusion
 
-The proposed Real-Time Traffic Sign Detection and Audio Feedback System successfully combines YOLOv8’s powerful visual recognition with speech-based alerts to create a non-distracting driver assistance tool.
-Its robust detection, real-time inference, and adaptability make it a valuable contribution to the development of intelligent transportation and autonomous vehicle systems.
+The Real-Time Traffic Sign Detection and Audio Feedback System effectively combines YOLOv8’s advanced visual recognition with real-time speech alerts, creating a non-distracting, intelligent driver-assistance tool.
+
+Its robust detection, high-speed inference, and adaptability make it a valuable step toward smart transportation and autonomous vehicle systems.
