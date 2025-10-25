@@ -26,53 +26,52 @@ The goal is to reduce distractions and improve responsiveness to road signs — 
 
 - Input Capture: Video or image input from camera or file.
 
-Detection Model: YOLOv8 performs sign detection and classification.
+- Detection Model: YOLOv8 performs sign detection and classification.
 
-Result Processing: Detected signs are annotated with bounding boxes and labels.
+- Result Processing: Detected signs are annotated with bounding boxes and labels.
 
-Audio Output: pyttsx3 generates voice alerts for detected signs.
+- Audio Output: pyttsx3 generates voice alerts for detected signs.
 
-📊 Dataset Description
+## 📊 Dataset Description
 
-Total Images: 2,796
+- Total Images: 2,796
 
-Classes: 61 traffic sign types
+- Classes: 61 traffic sign types
 
-Image Size: 640×640 pixels
+- Image Size: 640×640 pixels
 
-Annotation Format: YOLO (.txt)
+- Annotation Format: YOLO (.txt)
 
-Environments: Highway, urban, and rural scenarios under varying conditions
+- Environments: Highway, urban, and rural scenarios under varying conditions
 
-Sample Classes:
-Stop | Speed Limit | Pedestrian Crossing | No Entry | Roundabout | School Zone | Cyclist Crossing
+- Sample Classes: Stop | Speed Limit | Pedestrian Crossing | No Entry | Roundabout | School Zone | Cyclist Crossing
 
-⚙️ Methodology
-1. Data Preprocessing
+## ⚙️ Methodology
+### 1. Data Preprocessing
 
-Resized all images to 640×640.
+- Resized all images to 640×640.
 
-Normalized pixel values between 0–1.
+- Normalized pixel values between 0–1.
 
-Applied augmentation (flipping, rotation, brightness adjustments).
+- Applied augmentation (flipping, rotation, brightness adjustments).
 
-2. Model Architecture
+### 2. Model Architecture
 
-Based on YOLOv8, a single-stage real-time object detector.
+- Based on YOLOv8, a single-stage real-time object detector.
 
-Enhanced backbone for improved accuracy and speed.
+- Enhanced backbone for improved accuracy and speed.
 
-3. Training
+### 3. Training
 
-Epochs: 100
+- Epochs: 100
 
-Optimizer: Adam
+- Optimizer: Adam
 
-Split: 80% training, 20% validation
+- Split: 80% training, 20% validation
 
-Data augmentation for robustness.
+- Data augmentation for robustness.
 
-4. Evaluation Metrics
+### 4. Evaluation Metrics
 
 Precision: TP / (TP + FP)
 
@@ -82,14 +81,14 @@ mAP@0.5: 91.75%
 
 mAP@0.5:0.95: 74.08%
 
-🧩 Implementation Requirements
+## 🧩 Implementation Requirements
 Dependencies
 
 Install all dependencies using:
 
 pip install ultralytics pyttsx3 opencv-python
 
-🚀 Running Detection
+## 🚀 Running Detection
 Run on a Video
 python detect.py --weights "path/to/best.pt" --source "path/to/video.mp4" --view-img
 
@@ -104,7 +103,7 @@ Draw bounding boxes and labels.
 
 Announce detected signs via TTS.
 
-🔊 Audio Feedback Integration
+## 🔊 Audio Feedback Integration
 
 Uses pyttsx3 for offline TTS conversion. When a sign is detected (e.g., Speed Limit), the system immediately announces it.
 
@@ -115,7 +114,7 @@ engine = pyttsx3.init()
 engine.say("Speed limit ahead")
 engine.runAndWait()
 
-🧾 Results Summary
+## 🧾 Results Summary
 Metric	Value
 mAP@0.5	91.75%
 mAP@0.5:0.95	74.08%
@@ -131,7 +130,7 @@ Deployment on embedded devices (e.g., Raspberry Pi).
 
 Support for multilingual voice alerts.
 
-🛡️ Conclusion
+## 🛡️ Conclusion
 
 The Real-Time Traffic Sign Detection and Audio Feedback System effectively combines YOLOv8’s advanced visual recognition with real-time speech alerts, creating a non-distracting, intelligent driver-assistance tool.
 
