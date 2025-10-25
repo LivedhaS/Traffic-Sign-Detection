@@ -24,6 +24,8 @@ The goal is to **reduce distractions** and **improve responsiveness** to road si
 ---
 
 ## 🧠 System Architecture
+<img width="2545" height="837" alt="image" src="https://github.com/user-attachments/assets/9f2712b8-943f-4b8e-a668-ada3b1c06bc4" />
+
 
 1. **Input Capture:** Video or image input from camera or file.
 2. **Detection Model:** YOLOv8 performs sign detection and classification.
