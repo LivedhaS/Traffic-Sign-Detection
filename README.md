@@ -1,5 +1,6 @@
-🚦 Real-Time Traffic Sign Detection and Audio Feedback System
-📘 Overview
+# 🚦 Real-Time Traffic Sign Detection and Audio Feedback System
+
+## 📘 Overview
 
 This project presents a Real-Time Traffic Sign Detection and Audio Feedback System designed to enhance driver awareness and road safety through intelligent sign recognition and voice-based feedback.
 
@@ -7,23 +8,23 @@ Built using YOLOv8 (You Only Look Once), the system detects and classifies traff
 
 The goal is to reduce distractions and improve responsiveness to road signs — suitable for driver-assistance and autonomous vehicle technologies.
 
-🌟 Key Features
+## 🌟 Key Features
 
-Real-Time Detection: Fast and accurate recognition using YOLOv8.
+- Real-Time Detection: Fast and accurate recognition using YOLOv8.
 
-Audio Feedback: Real-time spoken alerts via pyttsx3.
+- Audio Feedback: Real-time spoken alerts via pyttsx3.
 
-Multi-Class Recognition: Detects 61 traffic sign types (e.g., Stop, Speed Limit, Pedestrian Crossing).
+- Multi-Class Recognition: Detects 61 traffic sign types (e.g., Stop, Speed Limit, Pedestrian Crossing).
 
-Dynamic Performance: Works under various lighting, weather, and occlusion conditions.
+- Dynamic Performance: Works under various lighting, weather, and occlusion conditions.
 
-GPU Acceleration: Supports high-speed inference on GPU.
+- GPU Acceleration: Supports high-speed inference on GPU.
 
-Scalability: Compatible with both high-end and embedded systems.
+- Scalability: Compatible with both high-end and embedded systems.
 
-🧠 System Architecture
+## 🧠 System Architecture
 
-Input Capture: Video or image input from camera or file.
+- Input Capture: Video or image input from camera or file.
 
 Detection Model: YOLOv8 performs sign detection and classification.
 
