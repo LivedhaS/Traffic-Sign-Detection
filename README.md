@@ -1,6 +1,4 @@
-Got it ✅ — here’s your **README.md** in proper Markdown format with `#`, `##`, `###`, and clean indentation for GitHub or documentation use:
 
----
 
 # 🚦 Real-Time Traffic Sign Detection and Audio Feedback System
 
