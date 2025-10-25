@@ -127,7 +127,7 @@ engine.runAndWait()
 
 ## 🧾 Results Summary
 
-<img width="1814" height="750" alt="image" src="https://github.com/user-attachments/assets/20f2071b-fe3b-4fed-ac55-a1b666ef199d" />
+
 
 | **Metric**          | **Value**                                                     |
 | ------------------- | ------------------------------------------------------------- |
